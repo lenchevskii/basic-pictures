@@ -1,0 +1,11 @@
+1st normal form, it should follow the next rules:
+
+• Each table cell should contain an atomic value
+
+• All the columns in a table should have unique names
+
+• Values stored in a column should be of the same datatype
+
+• Each row in a table needs to be unique
+
+• The order in which data is stored, does not matter
